@@ -1,0 +1,22 @@
+body {
+  font-family: helvetica;
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  font-family: sans;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: sans;
+  color: #5b8a72;
+}
