@@ -1,5 +1,5 @@
 body {
-  font-family: helvetica;
+  font-family: 'Just Another Hand', cursive;
   background-color: #EAF6F6;
 }
 
@@ -12,11 +12,9 @@ hr {
 }
 
 h1 {
-  font-family: sans;
   color: #66BFBF;
 }
 
 h3 {
-  font-family: sans;
   color: #5b8a72;
 }
